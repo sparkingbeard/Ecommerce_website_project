@@ -5,11 +5,11 @@
 __pycache__/
 *.pyc
 
-# Environment varables
+# Environment variables
 .env
 
-# VS code settings
+# VS Code settings
 .vscode/
 
 # OS files
-.DB_Store
+.DS_Store
